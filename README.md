@@ -1,4 +1,4 @@
 # data-for-papers
- Data for various papers
+Data for various papers
 
-causal-chain - data for Hawkins et al. on a physically plausible causal chain, submitted to Geoscience Communication
+causal-chain - data for Hawkins et al. on a physically plausible causal chain, published in Geoscience Communication
